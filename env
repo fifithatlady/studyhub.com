@@ -1,5 +1,11 @@
+ cat .env
+API_KEY='83488bb3d8mshef666d0690a738ap100919jsn5f2f918578ce'
+DJANGO_SECRET_KEY='django-insecure-z5+9(s5g!i%(0!dwluq!&b(9$vhjh%m!tpvlemz4&1vd=1c0h)'
+DJANGO_DEBUG=True
+DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1
 DB_NAME=vibemusic_db
-DB_USER=music@vibemusic-postgres-server
-DB_PASSWORD=@alxfinalprojectcohort15-2024
-DB_HOST=vibemusic-postgres-server.postgres.database.azure.com
+DB_USER=root
+DB_PASSWORD=alxfinalproject
+DB_HOST=localhost
 DB_PORT=5432
+
